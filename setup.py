@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pyprintplus",
-    version="1.0.0",
+    version="1.0.1",
     author="Marco",
     author_email=None,
     description="A better way of printing logs in Python.",
