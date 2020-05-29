@@ -1,8 +1,11 @@
-# PyPrintPlus
+![PyPrintPlus](https://raw.githubusercontent.com/marcoEDU/PyPrintPlus/master/images/headerimage.jpg "PyPrintPlus")
+
 A better way of printing logs in Python.
 
-Want to support the development financially? Donations are always welcomed! 
-<a href="https://liberapay.com/marcoEDU/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+Want to support the development and stay updated?
+
+<a href="https://www.patreon.com/bePatron?u=24983231"><img alt="Become a Patreon" src="https://raw.githubusercontent.com/marcoEDU/PyPrintPlus/master/images/patreon_button.svg"></a> <a href="https://liberapay.com/marcoEDU/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+
 
 ## Installation
 ```
