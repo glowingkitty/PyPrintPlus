@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pyprintplus",
-    version="1.0.3",
+    version="1.0.4",
     author="Marco",
     author_email=None,
     description="A better way of printing logs in Python.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/marcoEDU/PyPrintPlus",
+    url="https://github.com/glowingkitty/PyPrintPlus",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
